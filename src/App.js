@@ -17,13 +17,6 @@ export default function App() {
           >
             open-sourced on GitHub
           </a>{" "}
-          and{" "}
-          <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
-            rel="noopener noreferrer"
-          >
-            hosted on Netlify
-          </a>
         </footer>
       </div>
     </div>
