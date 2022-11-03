@@ -10,18 +10,9 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by{" "}
+          This project was coded by Melina and is{" "}
           <a
-            href="https://www.delac.io/"
-            
-            rel="noopener noreferrer"
-          >
-            Matt Delac
-          </a>{" "}
-          and is{" "}
-          <a
-            href="https://github.com/wecodeschool/react-weather-app"
-            
+            href="https://github.com/melinaeee/app-tiempo"
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
@@ -29,7 +20,6 @@ export default function App() {
           and{" "}
           <a
             href="https://suspicious-beaver-111c4d.netlify.com/"
-            
             rel="noopener noreferrer"
           >
             hosted on Netlify
