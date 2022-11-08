@@ -9,15 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by{" "}
-          <a
-            href="https://www.delac.io/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Melinae
-          </a>{" "}
-          and is{" "}
+          This project was coded by Melinae and is{" "}
           <a
             href="https://github.com/melinaeee/app-tiempo"
             target="_blank"
